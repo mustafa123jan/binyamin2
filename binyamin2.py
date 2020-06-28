@@ -514,7 +514,8 @@ def pilih_super():
 	print "  \033[1;91m«---•◈•---Developed By KABIR_H4CK_001--•◈•---»" #Dev:bk
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 binyamin2.py)↩\033[1;95m....'
 	print"\033[1;91mTotal OK/\x1b[1;92mCP \033[1;92m: \033[1;98m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
-	print """
+        print """
+
  ____________¶¶¶1¶¶_________¶¶¶¶¶¶¶___________ 
 _________¶¶¶111¶¶___________¶¶111¶¶¶¶________ 
 ______¶¶¶¶1111¶¶¶____________¶¶¶1111¶¶¶1_____ 
