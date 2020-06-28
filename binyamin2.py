@@ -513,18 +513,14 @@ def pilih_super():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;98mKABIR_H4CK_001\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By KABIR_H4CK_001--•◈•---»" #Dev:bk
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 binyamin2.py)↩\033[1;95m....'
-	print"\033[1;91mTotal OK/\x1b[1;92mCP \033[1;92m: \033[1;98m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
-        
-
+	print"\033[1;91mTotal OK/\x1b[1;92mCP \033[1;92m: \033[1;98m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint)   
  \033[1;95m        Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;91m ....KABIR_H4CK_001....... \033[1;96m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                \033[1;95m Facebook
               \033[1;96mbinyamin Jan"""
-	
 	raw_input("\n\033[1;99m[\033[1;99mBack\033[1;95m]")
 	menu()
-
 if __name__ == '__main__':
 	login()
